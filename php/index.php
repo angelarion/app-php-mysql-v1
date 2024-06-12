@@ -48,6 +48,10 @@ $result = $conn->query("SELECT * FROM users");
     <form method="post" action="">
         <input type="text" name="name" placeholder="Nombre">
         <button type="submit">Agregar</button>
+        <input type="text" name="name" placeholder="Nombre">
+        <button type="submit">Agregar</button>
+        <input type="text" name="name" placeholder="Nombre">
+        <button type="submit">Agregar</button>
     </form>
     <h2>Usuarios</h2>
     <ul>
