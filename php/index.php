@@ -44,7 +44,7 @@ $result = $conn->query("SELECT * FROM users");
     <title>ABM PHP</title>
 </head>
 <body>
-    <h1>ABM PHP</h1>
+    <h1>ABM PHP Mi Primera APP </h1>
     <form method="post" action="">
         <input type="text" name="name" placeholder="Nombre">
         <button type="submit">Agregar</button>
